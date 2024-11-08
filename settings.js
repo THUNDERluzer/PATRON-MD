@@ -2,28 +2,28 @@ const chalk = require("chalk")
 const fs = require("fs")
 //auto presence update
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
 global.antispam = false//auto kick spammer (true to on, false to off)
 //===============SETTING MENU==================\\
 global.thumbnail = fs.readFileSync("./data/image/thumb.jpg")
-global.ig = 'justt.patron'
-global.yt = 'Itzpatron1'
-global.ttowner = 'justt.patron'
-global.ownername = 'PATRON 🚹' 
-global.owner = ['2348133729715'] // SETTINGS ARE ALSO IN THE DATABASE FOLDER 
-global.ownernomer = '2348133729715'
-global.socialm = 'GitHub: Itzpatron'
-global.location = 'Nigeria' 
+global.ig = 'https://wa.me/qr/P6WADRJOKAFUK1'
+global.yt = 'https://wa.me/qr/P6WADRJOKAFUK1'
+global.ttowner = 'https://wa.me/qr/P6WADRJOKAFUK1'
+global.ownername = 'Hashan 🚹' 
+global.owner = ['94782543893'] // SETTINGS ARE ALSO IN THE DATABASE FOLDER 
+global.ownernomer = '9478254393'
+global.socialm = 'Whatsapp: https://wa.me/qr/P6WADRJOKAFUK1'
+global.location = 'Matara' 
 //========================setting Payment=====================\\
-global.nodana = '8133729715' // IT'S BLANK IF IT'S NOT EXISTING
-global.nogopay = '8133729715' // IT'S BLANK IF IT'S NOT EXISTING 
-global.noovo = '8133729715' // IT'S BLANK IF IT'S NOT EXISTING
+global.nodana = '0782543893' // IT'S BLANK IF IT'S NOT EXISTING
+global.nogopay = '0782543893' // IT'S BLANK IF IT'S NOT EXISTING 
+global.noovo = '0782543893' // IT'S BLANK IF IT'S NOT EXISTING
 //==================setting Payment Name===========================\\
-global.andana = 'FADARE' // IT'S BLANK IF IT'S NOT EXISTING
-global.angopay = 'FADARE' // IT'S BLANK IF IT'S NOT EXISTING
-global.anovo = 'FADARE' // IT'S BLANK IF IT'S NOT EXISTING
+global.andana = 'Hashan' // IT'S BLANK IF IT'S NOT EXISTING
+global.angopay = 'Hashan' // IT'S BLANK IF IT'S NOT EXISTING
+global.anovo = 'Hashan' // IT'S BLANK IF IT'S NOT EXISTING
 //==================setting bot===========================\\
 var _0x1bcf00 = _0xe1c6;
 function _0xe1c6(_0x488713, _0x4b148) {
@@ -35,7 +35,7 @@ function _0xe1c6(_0x488713, _0x4b148) {
   }, _0xe1c6(_0x488713, _0x4b148);
 }
 function _0x8e09() {
-  var _0x15a2b3 = ["ownerNumber", "2348133729715", "1042636teAGzd", "wagc", "websitex", "botnumber", "Sticker created by", "2348133729715@s.whatsapp.net", "2VoTTbt", "ᴘᴀᴛʀᴏɴ-ᴍᴅ", "packname", "460476jKclmm", "ᴘᴀᴛʀᴏɴ-ᴍᴅ 🚹", "331209drywgW", "https://github.com/Itzpatron/PATRON-MD", "ownernumber", "ᴘᴀᴛʀᴏɴ-ᴍᴅ🚹", "1256664XwfMbY", "10WbDnKq", "author", "456740fytdfb", "38255xwXZfH", "6oiKDdL", "botscript", "botname", "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", "160282IElaUI"];
+  var _0x15a2b3 = ["ownerNumber", "94782543893", "1042636teAGzd", "wagc", "websitex", "botnumber", "Sticker created by", "94782543893@s.whatsapp.net", "2VoTTbt", "Panda-ᴍᴅ", "packname", "460476jKclmm", "Panda-ᴍᴅ 🚹", "331209drywgW", "https://wa.me/qr/P6WADRJOKAFUK1", "ownernumber", "Panda-ᴍᴅ🚹", "1256664XwfMbY", "10WbDnKq", "author", "456740fytdfb", "38255xwXZfH", "6oiKDdL", "botscript", "botname", "https://wa.me/qr/P6WADRJOKAFUK1", "160282IElaUI"];
   _0x8e09 = function () {
     return _0x15a2b3;
   };
@@ -51,11 +51,11 @@ function _0x8e09() {
       _0x266e89.push(_0x266e89.shift());
     }
   }
-}(_0x8e09, 105820), global[_0x1bcf00(146)] = _0x1bcf00(131), global[_0x1bcf00(137)] = _0x1bcf00(150), global[_0x1bcf00(127)] = "2348133729715", global.ownername = _0x1bcf00(138), global[_0x1bcf00(149)] = [_0x1bcf00(129)], global.ownerweb = "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q", global[_0x1bcf00(153)] = _0x1bcf00(147), global[_0x1bcf00(152)] = _0x1bcf00(147), global.saluran = _0x1bcf00(147), global.themeemoji = "🚹", global.wm = "ᴘᴀᴛʀᴏɴ-ᴍᴅ", global[_0x1bcf00(145)] = _0x1bcf00(136), global[_0x1bcf00(132)] = _0x1bcf00(128), global[_0x1bcf00(141)] = _0x1bcf00(134))
-global.creator = "2348133729715@s.whatsapp.net"
-global.bankname = "MONIEPOINT"
-global.banknumber = "8133729715"
-global.bankowner = "FADARE"
+}(_0x8e09, 105820), global[_0x1bcf00(146)] = _0x1bcf00(131), global[_0x1bcf00(137)] = _0x1bcf00(150), global[_0x1bcf00(127)] = "94782543893", global.ownername = _0x1bcf00(138), global[_0x1bcf00(149)] = [_0x1bcf00(129)], global.ownerweb = "https://wa.me/qr/P6WADRJOKAFUK1", global[_0x1bcf00(153)] = _0x1bcf00(147), global[_0x1bcf00(152)] = _0x1bcf00(147), global.saluran = _0x1bcf00(147), global.themeemoji = "🚹", global.wm = "Panda-ᴍᴅ", global[_0x1bcf00(145)] = _0x1bcf00(136), global[_0x1bcf00(132)] = _0x1bcf00(128), global[_0x1bcf00(141)] = _0x1bcf00(134))
+global.creator = "94782543893@s.whatsapp.net"
+global.bankname = "Hashan"
+global.banknumber = "0782543893"
+global.bankowner = "Hashan"
 //======================== CPANEL COMMAND ===========================\\
 global.domain = '-' // Fill in your domain, don't put a / at the end of the link
 global.apikey = '-' // Fill Apikey
